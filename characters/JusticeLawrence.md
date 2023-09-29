@@ -40,11 +40,11 @@ Justice "J.L." Lawrence is the current active Warden of the State of San Andreas
 
 
 ### Character Backstory
-Justice Lawrence was born and raised in Sandy Shores, San Andreas in the heart of Blaine County. Growing up in a neighborhood plagued by alcohol, drugs, and violence, J.L. witnessed firsthaand the devastating impact of criminal activities on families and communities. This early exposure to the dark side of the state instilled in him a deep sense of justice and a desire to make a positive difference in the community. 
+Justice Lawrence was born and raised in Sandy Shores, San Andreas in the heart of Blaine County. Growing up in a neighborhood plagued by alcohol, drugs, and violence, J.L. witnessed firsthand the devastating impact of criminal activities on families and communities. This early exposure to the dark side of the state instilled in him a deep sense of justice and a desire to make a positive difference in the community. 
 
 As he reached adulthood, Justice decided to pursue a career in law enforcement. He enrolled in the San Andreas Police Academy, where he excelled in both physical training and academic studies. His commitment to discipline and principle quickly caught the attention of his superiors. After graduating with top honors, he joined the San Andreas State Police, where he served with distinction for several years, rising through the ranks until eventually becoming a Lieutenant. 
 
-However, Justice's ambition extended beyond patroling a beat on the city's streets. He recognized the need for reform within the San Andreas Department of Corrections, an institution often marred by corruption and misconduct. Determined to bring change, he transitioned from the police force to the Department of Corrections, taking on the role of a correctional officer.
+However, Justice's ambition extended beyond patrolling a beat on the city's streets. He recognized the need for reform within the San Andreas Department of Corrections, an institution often marred by corruption and misconduct. Determined to bring change, he transitioned from the police force to the Department of Corrections, taking on the role of a correctional officer.
 
 Over the years, Justice's dedication to upholding the law and maintaining strict discipline earned him the respect of both his fellow officers and inmates. He relentlessly pursued corrupt colleagues and worked to improve the conditions within San Andreas' prisons. His unyielding commitment to principle led him to become the Warden of the state's most notorious correctional facilities.
 
@@ -52,9 +52,9 @@ As the current active Warden for the San Andreas Department of Corrections, J.L.
 
 Justice Lawrence, known as "J.L." among both inmates and staff, continues to walk the path of justice, striving to reform the correctional system and make San Andreas a safer place for all its residents, even from behind prison bars.
 
-## Known Affilitions 
+## Known Affiliations  
 ### Employment & Jobs
-- **San Andreas Deparment of Corrections**
+- **San Andreas Department of Corrections**
   - **STATUS:** *Current*
   - **RANK:** *Warden*
 
