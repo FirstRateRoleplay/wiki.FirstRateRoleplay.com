@@ -17,21 +17,20 @@ Welcome to the official wiki for [First Rate Roleplay](https://firstraterolplay.
 ##### THIS WIKI IS UNDER CONSTRUCTION AND SOME NAVIGATION MENU OPTIONS MAY NOT BE PROPERLY SET UP YET. 
 
 #### Contributor Categories
-- Contributor Guidelines
-- Contributor Templates
+- [Contributor Guidelines](https://wiki.FirstRateRoleplay.com/contributor/Guidelines.html)
+- [Contributor Templates](https://wiki.FirstRateRoleplay.com/contributor/Templates.html)
 
 #### Topic Categories
-- Businesses
-- Characters
-- Crime
-- Gangs
-- Items
-- Jobs
-- Organizations
-- Players
-- Points of Interest
-- Vehicles
-- Weapons
+- [Businesses](https://wiki.FirstRateRoleplay.com/directory/Businesses.html)
+- [Characters](https://wiki.FirstRateRoleplay.com/directory/Characters.html)
+- [Gangs](https://wiki.FirstRateRoleplay.com/directory/Gangs.html)
+- [Items](https://wiki.FirstRateRoleplay.com/directory/Items.html)
+- [Jobs](https://wiki.FirstRateRoleplay.com/directory/Jobs.html)
+- [Organizations](https://wiki.FirstRateRoleplay.com/directory/Organizations.html)
+- [Players](https://wiki.FirstRateRoleplay.com/directory/Players.html)
+- [Points of Interest](https://wiki.FirstRateRoleplay.com/directory/POI.html)
+- [Vehicles](https://wiki.FirstRateRoleplay.com/directory/Vehicles.html)
+- [Weapons](https://wiki.FirstRateRoleplay.com/directory/Weapons.html)
 
 
 ####   © Copyright First Rate Roleplay™ | All Rights Reserved
