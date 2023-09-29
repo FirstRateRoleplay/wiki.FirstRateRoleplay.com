@@ -5,7 +5,7 @@
 
 
 ## About Character
-{Brief biogrpahy and information about character.}
+{Brief biography and information about character.}
 
 ## Character Info
 ### Name
@@ -21,7 +21,7 @@
 - {ALIAS NAME}
 
 ### Relatives
-- {RELAIVE NAME} {RELATION}
+- {RELATIVE NAME} {RELATION}
 
 ### Likes
 - {LIKE LIST}
@@ -39,7 +39,7 @@
 ## Character Backstory
 {Character backstory and other lore.}
 
-## Known Affilitions 
+## Known Affiliations  
 ### Employment & Jobs
 - Job Name
   - Job Rank
