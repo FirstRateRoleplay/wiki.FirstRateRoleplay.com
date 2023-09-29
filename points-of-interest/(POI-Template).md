@@ -7,6 +7,6 @@ Insert Descripion About POI Here
 | INFO TYPE  |  INFORMATION  |
 | ------------- |:-------------:|
 | LOCATION NAME: |*____*|
-| POSAL CODE:   |*____*|
+| POSTAL CODE:   |*____*|
 | STREET NAME:   |*____*|
 
